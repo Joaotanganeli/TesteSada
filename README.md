@@ -2,9 +2,10 @@
 
 API RESTful em **C# / .NET 8** para criar, listar, filtrar, editar e excluir tarefas, com um **frontend web** (HTML + CSS + JavaScript puro) servido pela própria API.
 
+Utilizado IA de forma auxiliar para poupar alguns trabalhos braçais, arquitetura e estrutura organizada manualmente. (Pelo fato do foco mais no back end frontend ficou bem simples)
+
 ![Frontend](docs/images/frontend.png)
 
-> Guia de estudo detalhado (passo a passo de como o projeto foi construído e explicação de cada conceito): **[docs/GUIA_DE_ESTUDO.md](docs/GUIA_DE_ESTUDO.md)**
 
 ---
 
